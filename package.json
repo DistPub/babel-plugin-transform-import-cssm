@@ -1,0 +1,36 @@
+{
+  "name": "babel-plugin-transform-import-cssm",
+  "version": "1.0.0",
+  "description": "Transform import `.cssm` statement to auto assign styles to `document.adoptedStyleSheets`.",
+  "keywords": [
+    "babel-plugin",
+    "cssm",
+    "CSS Modules V1",
+    "css modules",
+    "postcss",
+    "transform",
+    "manipulation",
+    "transpiler"
+  ],
+  "bugs": "https://github.com/DistPub/babel-plugin-transform-import-cssm/issues",
+  "main": "index.js",
+  "files": [
+    "*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DistPub/babel-plugin-transform-import-cssm.git"
+  },
+  "author": "Smite Chow",
+  "license": "MIT",
+  "engines": {
+    "node": ">=13.2.0"
+  },
+  "devDependencies": {},
+  "contributors": [
+    "Smite Chow <xiaopengyou2no1@gmail.com>"
+  ]
+}
