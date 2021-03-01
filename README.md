@@ -2,6 +2,8 @@
 
 > Based on [`CSS Modules V1`](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/css-modules-v1-explainer.md) [caniuse](https://caniuse.com/?search=adoptedStyleSheets)
 
+> Please enable chrome://flags/#enable-experimental-web-platform-features
+
 Transform import `.cssm` statement to auto assign styles to `document.adoptedStyleSheets`.
 
 ## Install
